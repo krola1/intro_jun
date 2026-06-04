@@ -1,5 +1,10 @@
-import { names } from "../data/names";
+import { people } from "../data/people";
+import Greeter from "./Greeter";
 
 export default function List() {
-  return <></>;
+  return (
+    <>
+      <Greeter />
+    </>
+  );
 }
