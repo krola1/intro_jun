@@ -1,5 +1,5 @@
 import "./App.css";
-import Greeter from "./components/Greeter";
+
 import List from "./components/List";
 
 function App() {
